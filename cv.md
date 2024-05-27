@@ -36,3 +36,37 @@ I decided to learn frontend since everything is going towards it. I learned HTML
 <img src="https://img.icons8.com/?size=100&id=EGYogqtKuGgD&format=png&color=000000" title="github" width="40" height="40" />&nbsp;
 
 ### Code example:
+**Sum of object properties from the task from learn.javascript.ru**<br>
+We have an object that stores team salaries:
+```javascript
+let salaries = {
+  Max: 1000,
+  Kirill: 1600,
+  Andrey: 3000
+}
+```
+Write code to sum all salaries and store the result in the variable ***sum***.<br>
+If the ***salaries*** object is empty, the result should be ***0***.
+```javascript
+let salaries = {
+  Max: 1000,
+  Kirill: 1600,
+  Andrey: 3000
+};
+
+let sum = 0;
+for (let key in salaries) {
+  sum += salaries[key];
+}
+
+alert(sum);
+```
+---
+---
+### Examples of my work:
+<img src="https://i.ibb.co/0ssZctP/zoobazar.png" title="zoobazar" width="200" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/ZNq0G3D/BK.png" title="bk" width="200" height="400" style="vertical-align: top;"/>&nbsp;
+
+---
+---
+### Courses:
