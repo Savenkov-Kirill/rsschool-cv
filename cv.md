@@ -61,12 +61,20 @@ for (let key in salaries) {
 
 alert(sum);
 ```
----
----
-### Examples of my work:
-<img src="https://i.ibb.co/0ssZctP/zoobazar.png" title="zoobazar" width="200" height="500" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://i.ibb.co/ZNq0G3D/BK.png" title="bk" width="200" height="400" style="vertical-align: top;"/>&nbsp;
 
 ---
 ---
 ### Courses:
+- Frontend development course from [aroken.ru](https://aroken.ru/ "website")<br>the project - [click](https://savenkov-kirill.github.io/ "createx")<br><br>
+![createx](https://i.ibb.co/D9KY41W/Screenshot-1.png)
+
+- Courses from [WebReference.ru](https://webref.ru/layout "website")<br>
+the project - [click](https://savenkov-kirill.github.io/styles-conference/ "styles conference")<br><br>
+![styles conference](https://i.ibb.co/hC32254/Screenshot-2.png)
+
+---
+### Languages:
+- Russian - Basic
+- English - Pre-Intermediate
+
+<div align="center"><img src="https://i.ibb.co/4pD2BGX/pngwing-com.png" title="fox at the computer" width="100" height="100" align="center" /></div>
