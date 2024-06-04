@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/RypnFjD/1.png" alt="photo" height="200px" width="200px">
+
 # Kirill Savenkov
 ### Junior Frontend Developer
 ---
@@ -11,6 +13,8 @@ E-mail: ksavenkov@mail.ru
     <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://t.me/Kirill_Savenkou" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://discord.com/channels/516715744646660106/917120666782801991" target="_blank">
+    <img src="https://img.shields.io/badge/kir_savenkov-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="kir_savenkov"></a>
 </div>
 
 ### About me:
