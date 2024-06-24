@@ -1,1 +1,1 @@
-https://Savenkov-Kirill.github.io/rsschool-cv/
+https://savenkov-kirill.github.io/rsschool-cv/cv
