@@ -101,6 +101,23 @@ main {
     font-size: 28px;
     font-weight: 300;
     line-height: 36px;
+    margin: 0;
+    padding: 16px 0 32px 0;
+}
+
+.section-text {
+    position: relative;
+    margin: 0;
+    padding-left: 56px;
+}
+
+.section-text::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/Location.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
 }
 
 .section-title {
@@ -108,6 +125,104 @@ main {
     font-weight: 500;
     line-height: 36px;
     margin: 0;
+}
+
+.section-list {
+    list-style: none;
+    padding: 32px 0 0 0;
+    margin: 0;
+}
+
+.section-nav-item {
+    padding-bottom: 8px;
+}
+
+.section-nav-item:last-child {
+    padding-bottom: 0px;
+}
+
+.section-nav-item a {
+    padding-left: 56px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 32px;
+    color: #000000;
+    transition: color 0.5s;
+}
+
+.section-nav-item a:hover {
+    color: #5E87F9;
+}
+
+.section-item-phone {
+    position: relative;
+}
+
+.section-item-phone::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/Phone.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
+}
+
+.section-item-email {
+    position: relative;
+}
+
+.section-item-email::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/Mail.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
+}
+
+.section-item-telegram {
+    position: relative;
+}
+
+.section-item-telegram::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/Telegram2.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
+}
+
+.section-item-linkedin {
+    position: relative;
+}
+
+.section-item-linkedin::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/linkedin.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
+}
+
+.section-item-instagram {
+    position: relative;
+}
+
+.section-item-instagram::before {
+    content: "";
+    position: absolute;
+    background-image: url(./assets/svg/instagram.svg);
+    width: 32px;
+    height: 32px;
+    left: 0px;
+}
+
+.section-aboutme-text {
+    font-weight: 500;
+    color: #3f4643;;
 }
 
 footer {
