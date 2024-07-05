@@ -145,14 +145,14 @@ main {
     padding-left: 56px;
     text-decoration: none;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 32px;
     color: #000000;
     transition: color 0.5s;
 }
 
 .section-nav-item a:hover {
-    color: #5E87F9;
+    color: #1a44ba;
 }
 
 .section-item-phone {
@@ -223,6 +223,38 @@ main {
 .section-aboutme-text {
     font-weight: 500;
     color: #3f4643;;
+}
+
+.section-item {
+    position: relative;
+    padding-left: 56px;
+}
+
+.section-item::before {
+    content: "";
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 10px;
+    height: 10px;
+    border: 1px solid #3f4643;
+    border-radius: 50%;
+}
+
+.pre {
+    margin: 0;
+    padding: 0;
+}
+
+.section-item a {
+    text-decoration: none;
+    color: #5E87F9;
+    font-weight: 400;
+    transition: color 0.5s;
+}
+
+.section-item a:hover {
+    color: #1a44ba;
 }
 
 footer {
